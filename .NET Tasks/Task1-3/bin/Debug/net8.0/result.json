@@ -1,0 +1,32 @@
+[
+  {
+    "Model": "Bicycle",
+    "Manufacturer": "Bicycle Manufacturer",
+    "MaxSpeed": 50,
+    "Cost": 1000
+  },
+  {
+    "Model": "Bus",
+    "Manufacturer": "Bus Manufacturer",
+    "MaxSpeed": 80,
+    "Cost": 20000
+  },
+  {
+    "Model": "Car",
+    "Manufacturer": "Car Manufacturer",
+    "MaxSpeed": 150,
+    "Cost": 20000
+  },
+  {
+    "Model": "Train",
+    "Manufacturer": "Train Manufacturer",
+    "MaxSpeed": 200,
+    "Cost": 20000000
+  },
+  {
+    "Model": "",
+    "Manufacturer": "",
+    "MaxSpeed": 0,
+    "Cost": 0
+  }
+]

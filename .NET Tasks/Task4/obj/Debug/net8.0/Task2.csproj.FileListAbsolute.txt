@@ -1,0 +1,14 @@
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\bin\Debug\net8.0\Task2.exe
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\bin\Debug\net8.0\Task2.deps.json
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\bin\Debug\net8.0\Task2.runtimeconfig.json
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\bin\Debug\net8.0\Task2.dll
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\bin\Debug\net8.0\Task2.pdb
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.dll
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\refint\Task2.dll
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.pdb
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+E:\Learning\Projects\.NET\DevStream TestTask\TestTask\Task 2\obj\Debug\net8.0\ref\Task2.dll

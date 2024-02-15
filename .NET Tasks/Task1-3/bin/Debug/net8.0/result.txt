@@ -1,0 +1,5 @@
+Model: BicycleManufacturer: Bicycle ManufacturerMaxSpeed: 50
+Model: BusManufacturer: Bus ManufacturerMaxSpeed: 80
+Model: CarManufacturer: Car ManufacturerMaxSpeed: 150
+Model: TrainManufacturer: Train ManufacturerMaxSpeed: 200
+Model: Manufacturer: MaxSpeed: 0
